@@ -83,7 +83,7 @@
                                <version>3.8.0</version>
                                <configuration>
                                <fork>true</fork>
-                               <executable>/usr/java/jdk1.8.0_131/bin/javac.exe</executable>
+                               <executable>/usr/java/jdk1.8.0_131/bin/javac.sh</executable>
                                </configuration>
                         </plugin>
 			<plugin>
